@@ -1,10 +1,11 @@
-package uz.iqtidor_academy.iqtidor_academy
+package uz.iqtidor_academy.iqtidor_academy.ui.activity
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import uz.iqtidor_academy.iqtidor_academy.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
